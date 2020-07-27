@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZ/bdzZuiKJpU0PdQ7yytAD16r3rFJCknZXvt0TIJ1Ed14Tzl59tovp8JAU4tK6+51pQC5QWs8YAZMmAkPd29A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamey\\repos\\WhenTwoTalk\\WhenTwoTalk\\WhenTwoTalk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamey\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

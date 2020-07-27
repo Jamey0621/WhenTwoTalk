@@ -1,0 +1,15 @@
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.exe
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.csprojAssemblyReference.cache
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.AssemblyInfoInputs.cache
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.AssemblyInfo.cs
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.csproj.CoreCompileInputs.cache
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.deps.json
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.runtimeconfig.json
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.runtimeconfig.dev.json
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.dll
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\WhenTwoTalk.pdb
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.csproj.CopyComplete
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.dll
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.pdb
+C:\Users\Jamey\repos\WhenTwoTalk\WhenTwoTalk\obj\Debug\netcoreapp3.1\WhenTwoTalk.genruntimeconfig.cache
